@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Gloock&family=Roboto+Mono:ital,wght@0,400;0,700;1,200;1,400;1,700&family=Roboto+Slab:wght@200;400;700&display=swap');
+
+*{
+    font-family: 'Roboto Slab',serif;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.home{
+    font-size: 1.8em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    min-height: 10vh;
+    background: url(/assets.html/image2.jpg)center/ cover no-repeat fixed;
+    
+}
+
+.sobre{
+    margin: 0.5em;
+    padding: 0.5em;
+    font-size: 1.3em;
+}
+
+.layout{
+    text-align: right;
+    margin-right: 1em;
+    font-size: 1.2em;
+}
+
+.login{
+    margin: 0.5em;
+    padding: 0.5em;
+    font-size: 1.3em;
+}
+.bodyhm{
+    margin: 0.8em;
+    line-height: 1.5;
+}
+
+.title{
+    font-size: 2.1em;
+    margin-left: 0.5em;
+}
+
+.listag{
+    margin-left: 4em;
+    font-size: 1.9em;
+    text-transform: uppercase;
+}
+
+.text {
+    margin-left: 0.3em;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+#name{
+    margin-left: 1em;
+    font-size:1em; 
+    text-align: left;
+}
+
+#serie{
+    margin-right: 1em;
+    font-size: 1em;
+    text-align: right;
+}
+
+#tag_html{
+    margin-right: 67%;
+    text-indent: 1em;
+    margin-left: 4em;
+    font-size: 2em;
+    border: double black 2px;
+}
+
+.txt_tag{
+    font-size: 1.2em;
+    margin-right:30%;
+    text-align: justify;
+}
